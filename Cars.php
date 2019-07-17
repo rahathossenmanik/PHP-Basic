@@ -1,4 +1,5 @@
 <?php
-    $color='red';
+    $color='Red';
     $car='BMW';
+	echo"$color"." "."$car";
 ?>
